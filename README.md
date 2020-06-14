@@ -3,6 +3,8 @@ The repository for our course files
 
 Portugues (English below):
 Desenvolvimento de Software com Andre Vejdani
+Todas as aulas no YoutTube:
+https://www.youtube.com/user/CoderCoronet
 
 Aula 1 (12/06/2020):
 Preparaçao do Ambiente de Desenvolvimento
@@ -28,6 +30,8 @@ Aula 3 (14/06/2020)
 
 
 Software Development Course with Andre Vejdani
+All sessions on YouTube:
+https://www.youtube.com/user/CoderCoronet
 
 Session 1 (12/06/2020):
 Dev environment preparatio 
