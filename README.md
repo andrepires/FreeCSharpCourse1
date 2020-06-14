@@ -1,4 +1,4 @@
-# FreeCSharpCourse1
+# Free Software Development Course with Andre Vejdani
 The repository for our course files
 
 Portugues (English below):
