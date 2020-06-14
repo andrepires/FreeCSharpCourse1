@@ -10,7 +10,7 @@ using System.Text;
 namespace Exemplos1
 {
     /// <summary>
-    /// Define o tipo Pessoa
+    /// Define o tipo Pessoa.
     /// </summary>
     public class Pessoa
     {
